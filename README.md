@@ -27,13 +27,9 @@
   - Tools: Git, VS Code
   - DevOps: Docker, Kubernetes
 
-
-  ### 📈 GitHub Stats
-  ![Vignesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesha0408&show_icons=true&count_private=true&theme=dark)
-
   ### 🌐 Check out my portfolio website
   [Portfolio]( )
 
   
-  Thanks for stopping by! Let's connect and collaborate on exciting projects. 😊
+  😊
 </div>
