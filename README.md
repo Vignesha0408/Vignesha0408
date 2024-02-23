@@ -27,9 +27,6 @@
   - Tools: Git, VS Code
   - DevOps: Docker, Kubernetes
 
-  ### 🌐 Check out my portfolio website
-  [Portfolio]( )
-
   
   😊
 </div>
