@@ -1,5 +1,6 @@
-<div align="Left">
- 
+
+ ![Banner GitHub](https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/connect.png)
+
   ## Hello, I'm Vignesha 👋
   
   I'm a passionate software developer with a love for creating and learning. Welcome to my GitHub playground!
