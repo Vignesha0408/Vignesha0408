@@ -4,14 +4,6 @@
   ## Hello, I'm Vignesha 
     
 
-  ###  My tech stack
-  - Languages: Java,JavaScript, Python
-  - Frontend: HTML, CSS, React
-  - Backend: Node.js, Express
-  - Databases: MongoDB, MySQL
-  - Tools: Git, VS Code
-  - DevOps: Docker, Kubernetes
-
   - <h3>My Projects</h3>
 
 | Serial No. | Project Name | Deployed link |Repositary Link | Tags | Date|
