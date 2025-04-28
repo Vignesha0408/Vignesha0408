@@ -1,7 +1,7 @@
 
  ![Banner GitHub](https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/connect.png)
 
-  ## Hello, I'm Vignesha 
+  ## Hello, I'm Vignesh pandith
     
 
   - <h3>My Projects</h3>
