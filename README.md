@@ -8,8 +8,8 @@
 
 | Serial No. | Project Name | Deployed link |Repositary Link | Tags | Date|
 |---|---|---|---|---| --- |   
-| 1 |HTML pages|[view]( https://vignesha0408.github.io/cordova-android-app/)|[view](https://github.com/Vignesha0408/cordova-android-app/tree/main/html_collection)|#html #css|28/4/2025|
-| 2 | App Development | [View](  )| [View]( ) | #python | 25/2/2024|
+| 1 |Web applications|[view]( https://vignesha0408.github.io/cordova-android-app/)|[view](https://github.com/Vignesha0408/cordova-android-app/tree/main/html_collection)|#html #css |28/4/2025|
+| 2 | Android Development | [View](  )| [View]( ) | #Java Script | 25/2/2024|
 
 
  
