@@ -1,5 +1,5 @@
 
- ![Banner GitHub](https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/connect.png)
+ ![Banner GitHub](https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/pic_2.png)
 
   ## Hello, I'm Vignesh pandith
     
