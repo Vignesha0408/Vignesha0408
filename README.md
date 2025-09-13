@@ -1,5 +1,4 @@
-
- <img src="https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/pic_2.png" width="600" height="300" alt="Banner GitHub">
+<img src="https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/pic_2.png" width="600" height="250" alt="Banner GitHub">
 
   ## Hello, I'm Vignesh pandith
     
