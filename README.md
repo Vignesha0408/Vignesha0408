@@ -1,7 +1,12 @@
 <img src="https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/pic_2.png" width="600" height="250" alt="Banner GitHub">
 
   ## Hello, I'm Vignesh pandith
-    
+
+  
+| Name              | Link                                       |
+| ----------------- | ------------------------------------------ |
+| Portfolio Website | [View](https://vignesha0408.github.io)     |
+| Resume            | [Download](https://example.com/resume.pdf) |
 
 ### My Projects 
 
