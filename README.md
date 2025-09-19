@@ -5,7 +5,7 @@
   
 | Name              | Link                                                                 |
 | ----------------- | -------------------------------------------------------------------- |
-| Portfolio Website | [View](https://vignesha0408.github.io)                               |
+| Portfolio Website | [View](https://vignesha0408.github.io/portfolio/index.html)                               |
 | Resume            | [Download](https://drive.google.com/uc?export=download&id=1XgkvfQa52XJJfxyyseEKljie8jt7kaKj) |
 
 
