@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/pic_2.png?raw=true" width="600" height="250" alt="Vignesh Pandith's GitHub Banner">
+  <img src="https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/pic_2.png?raw=true" width="800" height="340" alt="Vignesh Pandith's GitHub Banner">
 </div>
 
 # Vignesh Pandith
