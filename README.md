@@ -4,7 +4,7 @@
 
 #  Hello, I'm Vignesh Pandith
 
-I'm a passionate developer skilled in **Web Development** and **Android Development**, crafting innovative solutions with clean code. Welcome to my GitHub profile! 🚀
+I'm a passionate developer skilled in **Web Development** and **Android Development**, crafting innovative solutions with clean code. Welcome to my GitHub profile! 
 
 ---
 
