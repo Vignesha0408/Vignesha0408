@@ -12,7 +12,7 @@ I'm a developer specializing in Web Development and Android Development. Explore
 - Portfolio: [View My Portfolio](https://vignesha0408.github.io/portfolio/index.html)
 - Resume: [Download Resume](https://drive.google.com/uc?export=download&id=1XgkvfQa52XJJfxyyseEKljie8jt7kaKj)
 - Tech Stack: HTML, CSS, JavaScript, Cordova
-- Connect: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Email](mailto:your-email@example.com) | [Twitter](https://twitter.com/your-twitter)
+- Connect: [LinkedIn](https://www.linkedin.com/in/vignesha-u-g-45551a285/) | [Email](mailto:your-chetanpandith04@gmail.com) | [Twitter](https://twitter.com/Vignesh81385550)
 
 ## Projects
 
