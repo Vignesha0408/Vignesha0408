@@ -3,10 +3,11 @@
   ## Hello, I'm Vignesh pandith
 
   
-| Name              | Link                                       |
-| ----------------- | ------------------------------------------ |
-| Portfolio Website | [View](https://vignesha0408.github.io)     |
-| Resume            | [Download](https://example.com/resume.pdf) |
+| Name              | Link                                                                 |
+| ----------------- | -------------------------------------------------------------------- |
+| Portfolio Website | [View](https://vignesha0408.github.io)                               |
+| Resume            | [Download](https://drive.google.com/uc?export=download&id=1XgkvfQa52XJJfxyyseEKljie8jt7kaKj) |
+
 
 ### My Projects 
 
