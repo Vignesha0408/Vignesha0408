@@ -21,7 +21,7 @@ Discover my latest projects below:
 | # | Project Name | Deployed Link | Repository | Tags | Date |
 |---|--------------|---------------|------------|------|------|
 | 1 | Web Applications | [View](https://vignesha0408.github.io/vignesh-s-html-pages/) | [View](https://github.com/Vignesha0408/cordova-android-app/tree/main/html_collection) | #HTML #CSS | 28/04/2025 |
-| 2 | Android Development | [View](https://vignesha0408.github.io/cordova-android-app/) | [View](https://github.com/Vignesha0408/cordova-android-app) | #JavaScript | 25/02/2025 |
+| 2 | Android Development | [View](https://vignesha0408.github.io/cordova-android-app/html_collection/) | [View](https://github.com/Vignesha0408/cordova-android-app) | #JavaScript | 25/02/2025 |
 | 3 | QuickMesh Messaging App | [View](https://github.com/vignesha0408/QuickMesh_app/blob/main/README.md) |[View](https://github.com/Vignesha0408/QuickMesh_app)|#NodeJs|  03/10/2025 |
 | 4 | Voting Machine Using Full Stack | [View](https://github.com/Vignesha0408/Voting-Machine-Using-Full-Stack) |[View](https://voting-machine-using-full-stack.onrender.com/)|#FullStack|  03/10/2025 |
 | 5 | Campus Entry Form | [View](https://vignesha0408.github.io/Admission-form/) | [View](https://github.com/Vignesha0408/Admission-form/blob/7fac29648c9666dacd3a51b189d5f7b8486ec09f/index.html) | #HTML | 27/02/2024|
