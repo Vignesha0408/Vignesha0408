@@ -34,6 +34,17 @@ Discover my latest projects below:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+
+
+## 🧩 Peg Solitaire (BrainVita)
+
+A little game I made. Play it here:
+
+ **[Peg Solitaire – BrainVita](https://vignesha0408.github.io/Peg_soliter/BrainVita/index.html)**
+
+ 
+
+
 <div align="center">
   <p>Code is poetry, and I'm always writing new verses.</p>
   <p>Open to collaborations, ideas, or just a friendly chat.</p>
