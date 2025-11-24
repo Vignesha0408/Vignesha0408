@@ -42,7 +42,10 @@ A little game I made. Play it here:
 
  **[Peg Solitaire – BrainVita](https://vignesha0408.github.io/Peg_soliter/BrainVita/index.html)**
 
- 
+Try the advanced 37-hole version to sharpen your logic skills:
+
+**[37-Hole Peg Solitaire](https://vignesha0408.github.io/Peg_soliter/37_peg_solitaire.html)**
+
 
 
 <div align="center">
