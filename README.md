@@ -53,3 +53,95 @@ Try the advanced 37-hole version to sharpen your logic skills:
   <p>Open to collaborations, ideas, or just a friendly chat.</p>
   <p><a href="https://github.com/Vignesha0408?tab=repositories">Explore All My Repositories</a></p>
 </div>
+
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Vignesha0408&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vignesha0408&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesha0408&layout=compact&theme=tokyonight)
+
+
+ ## 📈 Contribution Graph
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vignesha0408&theme=tokyo-night)](https://github.com/Vignesha0408)
+
+
+## 🚀 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- Java Backend
+- Android Development
+- System Design
+- Open Source Contribution
+
+
+## 🎯 2026 Goals
+
+- ✅ Crack GATE 2026
+- 🌟 Build 20+ Projects
+- 🌟 Contribute to Open Source
+- 🌟 Learn Spring Boot
+- 🌟 Reach 1000+ GitHub Contributions
+- 🌟 Publish Research Projects
+
+## 📜 Certifications
+
+- Career Essentials in Project Management
+- Managing Projects with Microsoft 365
+- Optimizing Your Work with Microsoft 365
+- Cybersecurity Awareness
+
+
+## 💡 Developer Quote
+
+> "Small improvements made consistently create extraordinary software."
+
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=Vignesha0408&label=Profile+Views&color=blue&style=for-the-badge)
+
+ 
+## 📬 Let's Connect
+
+I'm always interested in collaborating on exciting projects, research, and open-source contributions.
+
+⭐ Thanks for visiting my profile!
+
+
+## 🌟 Achievements
+
+- 🎓 Information Science Engineering Student
+- 💻 Passionate Full Stack & Android Developer
+- 🚀 Built multiple web and mobile applications
+- 📚 Preparing for GATE 2027
+- 🌱 Lifelong learner and technology enthusiast
+
+## 📚 Favorite Technologies
+
+| Frontend | Backend | Database | Tools |
+|----------|----------|----------|-------|
+| HTML | Node.js | MySQL | Git |
+| CSS | Flask | SQLite | GitHub |
+| JavaScript | Java | Firebase | VS Code |
+
+
+
+## 📅 My Coding Journey
+
+```text
+2023  ██████ Started Programming
+2024  ██████████ Built HTML/CSS Projects
+2025  ██████████████ Android & Full Stack Development
+2026  █████████████████ GATE Preparation & Open Source
+```
+
+
+
+
+Happy Coding! 💙
