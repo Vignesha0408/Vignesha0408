@@ -4,8 +4,10 @@
   <img src="https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/pic2.png?raw=true" width="1855" height="1625" alt="Vignesh Pandith's GitHub Banner">
 </div>
 
-# Vignesh Pandith
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1500&center=true&vCenter=true&width=700&lines=Information+Science+Engineering+Student;Full+Stack+Developer;Open+Source+Contributor;GATE+2027+Aspirant;Always+Learning+Something+New)](https://git.io/typing-svg)
 
+# Vignesh Pandith
+ 
 Crafting innovative solutions with clean code  
 I'm a developer specializing in Web Development and Android Development. Explore my work and let's build something together.
 
@@ -159,3 +161,7 @@ I'm always interested in collaborating on exciting projects, research, and open-
 ![](https://komarev.com/ghpvc/?username=Vignesha0408&label=Profile+Views&color=blue&style=for-the-badge)
 
 Happy Coding! 💙
+
+
+
+
