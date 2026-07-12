@@ -104,9 +104,6 @@ Try the advanced 37-hole version to sharpen your logic skills:
 > "Small improvements made consistently create extraordinary software."
 
 
-## 👀 Visitors
-
-![](https://komarev.com/ghpvc/?username=Vignesha0408&label=Profile+Views&color=blue&style=for-the-badge)
 
  
 ## 📬 Let's Connect
@@ -144,6 +141,18 @@ I'm always interested in collaborating on exciting projects, research, and open-
 ```
 
 
+## 💻 LeetCode
 
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshug?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/u/vigneshug/)
+
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-vigneshug-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vigneshug/)
+
+
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=Vignesha0408&label=Profile+Views&color=blue&style=for-the-badge)
 
 Happy Coding! 💙
