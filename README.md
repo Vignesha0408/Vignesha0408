@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img src="https://github.com/Vignesha0408/Vignesha0408/blob/main/Images/pic2.png?raw=true" width="1855" height="1625" alt="Vignesh Pandith's GitHub Banner">
 </div>
@@ -103,7 +105,7 @@ Try the advanced 37-hole version to sharpen your logic skills:
 
 > "Small improvements made consistently create extraordinary software."
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.;Stay+curious.;Every+bug+is+a+lesson.;Consistency+beats+talent.;Never+stop+learning.)](https://git.io/typing-svg)
 
  
 ## 📬 Let's Connect
